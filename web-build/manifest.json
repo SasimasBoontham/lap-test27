@@ -1,0 +1,7 @@
+{
+  "display": "standalone",
+  "lang": "en",
+  "name": "group-chat-mock",
+  "short_name": "group-chat-mock",
+  "start_url": "/?utm_source=web_app_manifest"
+}
